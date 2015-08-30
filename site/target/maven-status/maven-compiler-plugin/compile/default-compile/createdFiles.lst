@@ -1,0 +1,10 @@
+org/example/beans/ContentDocument.class
+org/example/beans/FaqList.class
+org/example/beans/Banner.class
+org/example/beans/Account.class
+org/example/beans/FaqItem.class
+org/example/beans/NewsDocument.class
+org/example/beans/BaseDocument.class
+org/example/beans/Blogpost.class
+org/example/beans/EventsDocument.class
+org/example/beans/Author.class
